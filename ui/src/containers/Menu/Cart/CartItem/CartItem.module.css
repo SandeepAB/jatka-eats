@@ -1,0 +1,54 @@
+
+.Row{
+    width: 100%;
+}
+
+.Col_6{
+    width: 50%;
+}
+
+.Col_4{
+    width: 33.33%;
+    padding: 5px;
+}
+
+
+.Col_3{
+    width: 33.33%;
+    padding: 5px;
+}
+
+
+.Col_5{
+    width: 20%;
+    padding: 5px;
+}
+
+.FlexRow{
+    width: 100%;
+    display: flex;
+}
+
+.Flex{
+    display: flex;
+}
+
+.FloatRight{
+    float:right;
+}
+
+.RowPadding{
+    padding: 10px 10px 10px 10px
+}
+
+.AddItemsButton{
+    background: green;
+    margin: 0px;
+    padding: 0px;
+}
+
+.PriceMargin{
+    margin-left: 5px;
+    font-weight: bold;
+    line-height: 25px;
+}

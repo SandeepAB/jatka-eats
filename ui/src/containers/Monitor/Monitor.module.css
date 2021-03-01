@@ -1,0 +1,208 @@
+.Row{
+    width: 100%;
+}
+
+.FlexRow{
+    width: 100%;
+    display: flex;
+}
+
+.Flex{
+    width: 100%;
+    display: flex;
+}
+.Col_6{
+    width: 50%;
+}
+
+.Col_70{
+    width: 60%;
+    margin-right: 20px;
+}
+
+.Col_30{
+    width: 40%;
+}
+
+.FloatRight{
+    float: right;
+}
+
+.StoreItem{
+    padding: 10px;
+}
+
+.ImageContainer{
+    width: 100%;
+    display: flex;
+    background: #EEEEEE;
+    color: #1C1C75;
+}
+
+.Image{
+    width: 90%;
+    height: 100px;
+}
+
+.EditIcon{
+    width: 15px;
+    height: 15px;
+    color: white;
+    background: black;
+    border-radius: 50%;
+    margin-left: 3px;
+}
+
+.StoreHeadName{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 2px
+}
+
+.StoreHeadItems{
+    font-size: 16px;
+    color: #BCBCD3;
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+.TotalSales{
+    font-size: 14px;
+    color: #BCBCD3;
+    padding-bottom: 5px;
+    margin: 0;
+    margin-top: 15px;
+
+}
+
+.Amount{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.AddItemsButton{
+    background: #2A7953; 
+    text-align: center;
+    color: white;
+}
+
+.AlignCenter{
+    text-align: center;
+}
+
+.Text{
+    padding: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.BlackColor{
+    color: black;
+}
+
+.Address{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    display: table-cell;
+    padding: 5px;
+}
+
+.IconCompleted{
+    color: #39CA48;
+}
+
+.IconPending{
+    color: #FFA41C;
+}
+
+.IconShortage{
+    color: #F83636;
+}
+.HeaderPadding{
+    padding: 20px;
+}
+
+.HalfHeight{
+    height: 50%;
+}
+.fullHeight{
+    height: 100%;
+}
+
+.SaveButtonBackground{
+    background: #4D4CAC !important;
+}
+
+.MenuHeadName{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.MenuHeadItems{
+    font-size: 12px;
+    color: #BCBCD3;
+}
+
+.Statement{
+    color: black !important;
+    padding: 10px !important;
+    background: #FFFFFF !important;
+    border: 1px solid #1D6FE5 !important;
+    box-sizing: border-box !important;
+    border-radius: 4px !important;
+}
+
+.Width95{
+    width: 95%;
+}
+
+.Input{
+    width: 95%;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #A6A6A6;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.RowPadding{
+    padding: 10px 10px 10px 10px
+}
+
+.StateMentLabel{
+    padding: 0px;
+    margin: 0px;
+    font-size: 14px;
+    color: #474748;
+}
+
+.LabelRed{
+    color: red;
+}
+
+.InputRed{
+    border: 1px solid red;
+}
+.ShowCursor{
+    cursor:pointer;
+}
+
+.SaveButtonBackground{
+    background: #4D4CAC !important;
+}
+
+.CancelButtonBackground{
+    background: #D0D0D0 !important;
+    color: #5C5C5C !important;
+}
+
+.DeleteButtonBackground{
+    background: red !important;
+}

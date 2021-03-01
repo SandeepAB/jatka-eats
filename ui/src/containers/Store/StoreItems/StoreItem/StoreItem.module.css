@@ -1,0 +1,67 @@
+.StoreItem{
+    padding: 10px;
+}
+
+.ImageContainer{
+    width: 100%;
+    display: flex;
+    background: #EEEEEE;
+    color: #1C1C75;
+}
+
+.Image{
+    width: 90%;
+    height: 100px;
+}
+
+.EditIcon{
+    width: 15px;
+    height: 15px;
+    color: white;
+    background: black;
+    border-radius: 50%;
+    margin-left: 3px;
+}
+
+.StoreHeadName{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 2px
+}
+
+.StoreHeadItems{
+    font-size: 16px;
+    color: #BCBCD3;
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+.AddItemsButton{
+    background: #2A7953; 
+    text-align: center;
+    color: white;
+}
+
+.AlignCenter{
+    text-align: center;
+}
+
+.Text{
+    padding: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.BlackColor{
+    color: black;
+}
+
+.Address{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    display: table-cell;
+    padding: 5px;
+}

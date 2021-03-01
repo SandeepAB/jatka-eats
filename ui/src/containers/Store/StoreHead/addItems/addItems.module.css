@@ -1,0 +1,134 @@
+.StaffItem{
+    padding: 10px;
+}
+
+.ImageContainer{
+    width: 100%;
+    display: flex;
+}
+
+.Image{
+    width: 90%;
+}
+
+.EditIcon{
+    width: 15px;
+    height: 15px;
+    color: white;
+    background: black;
+    border-radius: 50%;
+}
+
+.StaffHeadName{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 2px
+}
+
+.StaffHeadItems{
+    font-size: 12px;
+    color: #BCBCD3;
+    padding-bottom: 2px
+}
+
+.AddItemsButton{
+    background: #2A7953; 
+    text-align: center;
+    color: white;
+}
+
+.AlignCenter{
+    text-align: center;
+}
+
+.Text{
+    padding: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Row{
+    width: 100%;
+}
+
+.Col_6{
+    width: 50%;
+}
+
+.FlexRow{
+    width: 100%;
+    display: flex;
+}
+
+.Flex{
+    display: flex;
+}
+
+.FloatRight{
+    float:right;
+}
+
+.RowPadding{
+    padding: 10px 10px 10px 10px
+}
+
+.Input{
+    width: 95%;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #A6A6A6;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.SaveButtonBackground{
+    background: #4D4CAC !important;
+}
+
+.CancelButtonBackground{
+    background: #D0D0D0 !important;
+    color: #5C5C5C !important;
+}
+
+.DeleteButtonBackground{
+    background: red !important;
+}
+
+.SelectedFile{
+    font-size: 12px;
+    margin: 2px;
+    color: green;
+}
+
+.Error{
+    font-size: 12px;
+    margin: 2px;
+    color: red;
+}
+
+.Select{
+    border: 1px solid #A6A6A6;
+    background: white;
+    padding: 10px;
+}
+
+.AddressLabel{
+    width: 15%
+}
+
+.MenuList{
+    height: 100px;
+    overflow: auto;
+}
+
+.MenuItem{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.MenuItemCheckbox{
+    margin-right: 10px;
+}

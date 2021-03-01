@@ -1,0 +1,52 @@
+.MenuItem{
+    padding: 10px;
+}
+
+.ImageContainer{
+    width: 100%;
+    display: flex;
+}
+
+.Image{
+    width: 90%;
+    height: 100px;
+}
+
+.EditIcon{
+    width: 15px;
+    height: 15px;
+    color: white;
+    background: black;
+    border-radius: 50%;
+    margin-left: 3px;
+}
+
+.MenuHeadName{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 2px
+}
+
+.MenuHeadItems{
+    font-size: 12px;
+    color: #BCBCD3;
+    padding-bottom: 2px
+}
+
+.AddItemsButton{
+    background: #2A7953; 
+    text-align: center;
+    color: white;
+}
+
+.AlignCenter{
+    text-align: center;
+}
+
+.Text{
+    padding: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

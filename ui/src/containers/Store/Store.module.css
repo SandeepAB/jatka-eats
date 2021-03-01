@@ -1,0 +1,27 @@
+.Row{
+    width: 100%;
+}
+
+.FlexRow{
+    width: 100%;
+    display: flex;
+}
+.Col_6{
+    width: 50%;
+}
+
+.Col_70{
+    width: 60%;
+    margin-right: 20px;
+}
+
+.Col_30{
+    width: 40%;
+}
+
+.HalfHeight{
+    height: 50%;
+}
+.fullHeight{
+    height: 100%;
+}

@@ -1,0 +1,53 @@
+.StaffItem{
+    padding: 10px;
+}
+
+.ImageContainer{
+    width: 100%;
+    display: flex;
+}
+
+.Image{
+    width: 90%;
+    height: 150px;
+}
+
+.EditIcon{
+    width: 15px;
+    height: 15px;
+    color: white;
+    background: black;
+    border-radius: 50%;
+    margin-left: 3px;
+}
+
+.StaffHeadName{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 2px
+}
+
+.StaffHeadItems{
+    font-size: 16px;
+    color: #BCBCD3;
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+.AddItemsButton{
+    background: #2A7953; 
+    text-align: center;
+    color: white;
+}
+
+.AlignCenter{
+    text-align: center;
+}
+
+.Text{
+    padding: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

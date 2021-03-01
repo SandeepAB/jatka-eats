@@ -1,0 +1,84 @@
+.Row{
+    width: 100%;
+}
+
+.FlexRow{
+    width: 100%;
+    display: flex;
+}
+.Col_6{
+    width: 50%;
+}
+
+.Col_70{
+    width: 60%;
+    margin-right: 20px;
+}
+
+.Col_30{
+    width: 40%;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.Hide{
+    display: none;
+}
+
+.ShowCursor{
+    cursor:pointer;
+}
+
+.Width95{
+    width: 95%;
+}
+
+.NoPadding{
+    padding: 0;
+    margin: 0;
+}
+
+.MenuHeadItems{
+    font-size: 12px;
+    color: #BCBCD3;
+    text-align: center;
+}
+
+.RowPadding{
+    padding: 10px 10px 10px 10px
+}
+
+.StateMentLabel{
+    padding: 0px;
+    margin: 0px;
+    font-size: 14px;
+    color: #999999;
+}
+
+.AddItemsButton{
+    background: #2A7953; 
+    text-align: center;
+    color: white;
+}
+
+.FloatRight{
+    float: right;
+}
+
+.SaveButtonBackground{
+    background: #4D4CAC !important;
+}
+
+.CancelButtonBackground{
+    background: #D0D0D0 !important;
+    color: #5C5C5C !important;
+}
+
+.DeleteButtonBackground{
+    background: red !important;
+}
+
+.PagePadding{
+    padding: 5%;
+}

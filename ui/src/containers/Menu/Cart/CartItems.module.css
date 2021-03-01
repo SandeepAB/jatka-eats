@@ -1,0 +1,40 @@
+.MenuItems{
+    width: 100%;
+    display: flex;
+
+}
+
+
+.HalfColumn{
+    width: 50%;
+    padding: 5px;
+}
+
+.CartHeadName{
+    padding: 0px;
+    margin: 0px;
+}
+
+.CartHeadItems{
+    font-size: 12px;
+    color: #BCBCD3;
+}
+
+.Row{
+    width: 100%;
+}
+
+.FlexRow{
+    width: 100%;
+    display: flex;
+}
+
+.ItemTotalPadding{
+    margin-top: 25px;
+}
+
+.Select{
+    border: 1px solid #A6A6A6;
+    background: white;
+    padding: 10px;
+}

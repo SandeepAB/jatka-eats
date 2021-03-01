@@ -1,0 +1,75 @@
+.Auth{
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.Input{
+    display: block;
+}
+
+.Select{
+    border: 1px solid #A6A6A6;
+    background: white;
+    width: 100%;
+    padding: 10px;
+}
+
+.Form{
+    margin: 0 20px;
+}
+
+.UserTypeWrapper{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.FormElementWrapper{
+    padding-bottom: 25px;
+}
+
+.Label{
+    float: left;
+    padding: 0px 0px 10px 0px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.LabelInput{
+    padding-left: 10px;
+}
+
+
+.config_info, .config_success, .config_warning, .config_error {
+    margin: 10px 0px;
+    padding:12px;
+    text-align: center;
+}
+.config_info {
+    color: #00529B;
+    background-color: #BDE5F8;
+}
+.config_success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+}
+.config_warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+.config_error {
+    color: #D8000C;
+    background-color: #FFD2D2;
+}
+
+@media (min-width: 600px){
+    .Auth {
+        width: 500px;
+    }
+}
